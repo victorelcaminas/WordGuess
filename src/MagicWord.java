@@ -58,7 +58,7 @@ public class MagicWord {
                 return false;
             }
         }
-return true;
+        return true;
     }
 }
 
